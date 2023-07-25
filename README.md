@@ -14,4 +14,4 @@ The crate code can be found at `./lib`
 Examples on using this crate can be found at `./examples`
 
 ## Security Analysis
-Formal security analysis of this protocl using Tamarin-Prover is avaialble at [this repo](https://github.com/tum-esi/act-nizk)
+Formal security analysis of this protocl using Tamarin-Prover is avaialble at [this repo](https://github.com/tum-esi/act-nizkp)
