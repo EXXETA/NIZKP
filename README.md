@@ -1,4 +1,4 @@
-# nizk_authentication
+# act-nizkp
 A Rust library for a Non-Interactive Zero-Knowledge Authentication protocol in collaboration with the [Technical University of Munich (TUM)](https://www.tum.de/en/).
 
 ## Project compilation and Cross tool
