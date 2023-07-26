@@ -15,3 +15,9 @@ Examples on using this crate can be found at `./examples`
 
 ## Security Analysis
 Formal security analysis of this protocl using Tamarin-Prover is avaialble at [this repo](https://github.com/tum-esi/act-nizkp)
+
+## Contribution
+More contribution could be added to this repo. For example:
+* Replacing the setup phase with a more efficient key agreement protocol. (In our research, we did not compare the current key agreement protocols.)
+* Adding support for 128-bit shared secret key. (Currently 256-bit keys are utilized.)
+* Improving our session key agreement protocol by utilizing only one NIZK proof from Prover A to verifier B and then calculating the shared session key with the randon value and commitment of A and public and private key pair of B. (Ephemeural session key agreement without interaction and with a 2 factor authentication.)
